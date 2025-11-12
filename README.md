@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 With your virtual environment active and dependencies installed, run the following command in your terminal:
 
-streamlit run mcq_generator.py
+streamlit run app.py
 
 
 Streamlit will start a local server and open the app in your web browser!
