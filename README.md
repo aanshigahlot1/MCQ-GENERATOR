@@ -1,4 +1,4 @@
-Streamlit MCQ Generator Project
+ MCQ Generator Project
 
 This project is a web application built with Streamlit that uses the Google Gemini API to generate multiple-choice questions (MCQs) from a user-provided text.
 
@@ -7,7 +7,7 @@ Project Structure
 mcq-generator/
 ├── .streamlit/
 │   └── secrets.toml     # Stores your secret API key
-├── mcq_generator.py     # The main Streamlit app code
+├── app.py     # The main app code
 └── requirements.txt     # Python dependencies
 
 
